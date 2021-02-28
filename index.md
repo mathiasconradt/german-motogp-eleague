@@ -3,6 +3,8 @@
 Wir sind eine Gruppe deutschsprachiger MotoGP-Fahrer (Deutschland, Österreich, Schweiz) auf der PS4.
 Es handelt sich hierbei um eine Fun-Liga, keine professional eSport-Liga.
 
+Wir haben eine WhatsApp-Gruppe für die Kommunikation.
+
 Wir fahren (derzeit) immer **Mittwochs 20.30 Uhr CET** Rennen im Rahmen einer Liga-Saison, zwischendurch spontane Trainings-Sessions oder kurze Rennen:
 
 * 100% Rennlänge, 20 Min Qualifying
@@ -19,11 +21,13 @@ Wir fahren (derzeit) immer **Mittwochs 20.30 Uhr CET** Rennen im Rahmen einer Li
 
 https://docs.google.com/spreadsheets/d/1hynbwgCUGYAgLA33ZHjL8-FkSS5JZolJtJTfirtOwpM/edit?usp=sharing
 
-(Den integriere ich hier nochmal bei Zeiten vernünftig rein.)
+(Den integriere ich hier bei Zeiten nochmal vernünftig.)
 
 ### Aktuelle Tabelle 
 
 folgt in Kürze
+
+(Die integriere ich hier bei Zeiten nochmal vernünftig.)
 
 ### Fahrer
 
@@ -54,5 +58,7 @@ folgt in Kürze
 Gelegentlich auf https://www.twitch.tv/genetics94
 
 ### Kontakt
+
+Wir haben eine WhatsApp-Gruppe für die Kommunikation. Zwecks Aufnahme einfach Kontakt aufnehmen:
 
 PSN Messenger: **Genetics94** oder **MK4Racer**
