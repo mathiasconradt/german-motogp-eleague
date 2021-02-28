@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Willkommen zur deutschsprachigen MotoGP e-Liga (PS4)
 
-You can use the [editor on GitHub](https://github.com/mathiasconradt/german-motogp-eleague/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Wir sind eine Gruppe deutschsprachiger MotoGP-Fahrer auf der PS4.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Rennkalendar
 
-### Markdown
+tbd
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Fahrer
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Handle | Realname |	Team | Startnummer
+--- | --- | --- | --- | ---
+DeR_HoFNarr_o_O | Tobias | Aprilia Racing Team Gresini|  	29
+Weedseednumberon	Steven	Ducati Team	1
+Mk4_Racer	Jannik	Petronas Yamaha	21
+GetMyMaNeSaNe	Oscar	Monster Yamaha	2
+Racing-Ralle	Ralf	Petronas Yamaha	28
+nimo_rit	David	Petronas Yamaha	98
+Genetics94	Mathias	Red Bull KTM Factory Racing	94
+bernhardott	Bernhard	Red Bull KTM Factory Racing	30
+xAlcaAzZ	Dadaa	Repsol Honda	86
+Powerfulseb	Sebastian	Suzuki Ecstar	3
+oLi_683	Oliver	Suzuki Ecstar	83
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Fahrer ausserhalb der Saison
 
-**Bold** and _Italic_ and `Code` text
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Kontakt
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mathiasconradt/german-motogp-eleague/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+PSN Messenger: Genetics94 oder MK4Racer
