@@ -1,7 +1,8 @@
 ## Willkommen zur deutschsprachigen MotoGP e-Liga (PS4)
 
-Wir sind eine Gruppe deutschsprachiger MotoGP-Fahrer (Deutschland, Österreich, Schweiz) auf der PS4.
+Wir sind eine Gruppe deutschsprachiger MotoGP-Fahrer (Deutschland, Österreich, Schweiz) auf der PS4. 
 Es handelt sich hierbei um eine Fun-Liga, keine professional eSport-Liga.
+Vom Alter her bunt gemischt zwischen ~20-50 Jahren.
 
 Wir haben eine WhatsApp-Gruppe für die Kommunikation.
 
