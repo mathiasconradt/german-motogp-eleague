@@ -20,7 +20,7 @@ Wir fahren (derzeit) immer **Mittwochs 20.30 Uhr CET** Rennen im Rahmen einer Li
 
 ### Rennkalendar
 
-https://docs.google.com/spreadsheets/d/1hynbwgCUGYAgLA33ZHjL8-FkSS5JZolJtJTfirtOwpM/edit?usp=sharing
+[https://docs.google.com/spreadsheets/d/1hynbwgCUGYAgLA33ZHjL8-FkSS5JZolJtJTfirtOwpM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1hynbwgCUGYAgLA33ZHjL8-FkSS5JZolJtJTfirtOwpM/edit?usp=sharing)
 
 (Den integriere ich hier bei Zeiten nochmal vernünftig.)
 
@@ -56,7 +56,7 @@ folgt in Kürze
 
 ### Live-Stream
 
-Gelegentlich auf https://www.twitch.tv/genetics94
+Gelegentlich auf [https://www.twitch.tv/genetics94](https://www.twitch.tv/genetics94)
 
 ### Kontakt
 
