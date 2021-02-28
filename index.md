@@ -10,6 +10,8 @@ Wir fahren (derzeit) immer **Mittwochs 20.30 Uhr CET** Rennen im Rahmen einer Li
 * Bikes Balanced: On
 * Kraftstoff & Reifenabnutzung: realistisch
 * Motorrad/Teamwahl: frei wählbar (aber fest für die gesamte Saison)
+* ECU & Bike Settings: beliebig
+* Fahrhilfen: keine (d.h. Ideallinie oder Fähnchen aus)
 * PS-Party während Rennen: ja (Mikrofon sollte man haben)
 
 
@@ -18,6 +20,10 @@ Wir fahren (derzeit) immer **Mittwochs 20.30 Uhr CET** Rennen im Rahmen einer Li
 https://docs.google.com/spreadsheets/d/1hynbwgCUGYAgLA33ZHjL8-FkSS5JZolJtJTfirtOwpM/edit?usp=sharing
 
 (Den integriere ich hier nochmal bei Zeiten vernünftig rein.)
+
+### Aktuelle Tabelle 
+
+folgt in Kürze
 
 ### Fahrer
 
