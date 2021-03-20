@@ -8,7 +8,7 @@ Vom Alter her bunt gemischt zwischen ~20-50 Jahren.
 
 Wir haben eine WhatsApp-Gruppe für die Kommunikation.
 
-Wir fahren (derzeit) immer **Mittwochs 20.30 Uhr CET** Rennen im Rahmen einer Liga-Saison, zwischendurch spontane Trainings-Sessions oder kurze Rennen:
+Wir fahren (derzeit) immer **Mittwochs 20.30 Uhr CET** (gelegentlich mit Ausnahme Freitags) Rennen im Rahmen einer Liga-Saison, zwischendurch spontane Trainings-Sessions oder kurze Rennen:
 
 * 100% Rennlänge, 20 Min Qualifying
 * Physics: frei wählbar (wobei die meisten Normal oder Pro fahren)
