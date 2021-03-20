@@ -1,3 +1,5 @@
+![Cover](5.jpg)
+
 ## Willkommen zur deutschsprachigen MotoGP e-Liga (PS4)
 
 Wir sind eine Gruppe deutschsprachiger MotoGP-Fahrer (Deutschland, Österreich, Schweiz) auf der PS4. 
