@@ -25,9 +25,8 @@ Wir fahren (derzeit) immer **Mittwochs 20.30 Uhr CET** Rennen im Rahmen einer Li
 
 ### Aktuelle Tabelle 
 
-folgt in Kürze
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsxIB5gKj0ndlLVGoWx_vjSwLldWuj_va5aQ2ydE6loQSpiu-nSKIg4der7KKbQY9yDt4UXSWzzV51/pubhtml?gid=911658204&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="250"></iframe>
 
-(Die integriere ich hier bei Zeiten nochmal vernünftig.)
 
 ### Fahrer
 
