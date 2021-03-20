@@ -379,8 +379,10 @@ a {
 
 body {
     background:gray;
+    background-image:url("bg.jpg");
+    background-color: white;
 }
 
 .main-content {
-    background-image:url("/bg.jpg");
+    background-color: white;
 }
