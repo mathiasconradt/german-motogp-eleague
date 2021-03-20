@@ -20,7 +20,7 @@ Wir fahren (derzeit) immer **Mittwochs 20.30 Uhr CET** Rennen im Rahmen einer Li
 
 ### Rennkalendar
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsxIB5gKj0ndlLVGoWx_vjSwLldWuj_va5aQ2ydE6loQSpiu-nSKIg4der7KKbQY9yDt4UXSWzzV51/pubhtml?gid=933464923&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsxIB5gKj0ndlLVGoWx_vjSwLldWuj_va5aQ2ydE6loQSpiu-nSKIg4der7KKbQY9yDt4UXSWzzV51/pubhtml?gid=933464923&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="550"></iframe>
 
 
 ### Aktuelle Tabelle 
