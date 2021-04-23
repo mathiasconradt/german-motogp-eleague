@@ -27,31 +27,7 @@ Wir fahren (derzeit) immer **Mittwochs 20.30 Uhr CET** (gelegentlich mit Ausnahm
 
 ### Aktuelle Tabelle 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsxIB5gKj0ndlLVGoWx_vjSwLldWuj_va5aQ2ydE6loQSpiu-nSKIg4der7KKbQY9yDt4UXSWzzV51/pubhtml?gid=911658204&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="250"></iframe>
-
-
-### Fahrer
-
-
-| Handle | Realname |	Team | Startnummer |
-| --- | --- | --- | --- | --- |
-| DeR_HoFNarr_o_O | Tobias | Aprilia Racing Team Gresini |  	29 |
-| Mk4_Racer	| Jannik	| Petronas Yamaha	| 21 |
-| GetMyMaNeSaNe	| Oscar	| Monster Yamaha	| 2 |
-| Racing-Ralle	| Ralf	| Petronas Yamaha |	28 |
-| Genetics94	| Mathias	| Red Bull KTM Factory Racing	| 94 |
-| bernhardott	|Bernhard	|Red Bull KTM Factory Racing	| 30 |
-| oLi_683 |	Oliver	| Suzuki Ecstar	| 83 |
-
-
-### Fahrer ausserhalb der Saison
-
-| Handle | Realname |	Team | Startnummer |
-| --- | --- | --- | --- | --- |
-| Weedseednumberon | Steven	| Ducati Team| 	1 |
-| xAlcaAzZ	|Dadaa	|Repsol Honda	| 86 |
-| Powerfulseb	| Sebastian |	Suzuki Ecstar	| 3 |
-| nimo_rit |	David |	Petronas Yamaha	| 98 |
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsxIB5gKj0ndlLVGoWx_vjSwLldWuj_va5aQ2ydE6loQSpiu-nSKIg4der7KKbQY9yDt4UXSWzzV51/pubhtml?gid=911658204&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="270"></iframe>
 
 
 ### Live-Stream
