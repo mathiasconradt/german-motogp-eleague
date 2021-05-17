@@ -12,18 +12,19 @@ Wir fahren (derzeit) immer **Freitags 21 Uhr CET** Rennen im Rahmen einer Liga-S
 
 * MotoGP21, PS4
 * 100% Rennlänge, 20 Min Qualifying
+* Fahrhilfen: keine (d.h. Ideallinie oder Fähnchen aus)
+* Manueller Start
 * Physics: frei wählbar (wobei die meisten Normal oder Pro fahren)
 * Bikes Balanced: On
 * Kraftstoff & Reifenabnutzung: realistisch
 * Motorrad/Teamwahl: frei wählbar (aber fest für die gesamte Saison)
 * ECU & Bike Settings: beliebig
-* Fahrhilfen: keine (d.h. Ideallinie oder Fähnchen aus)
 * PS-Party während Rennen: ja (Mikrofon sollte man haben)
 
 
 ### Rennkalendar
 
-Neuer Rennkalendar beginnt am 7.5. und ist hier in Kuerze verfuegbar.
+Vor jedem Rennen bitte bis 3 Stunden vor Rennbeginn in der WhatsApp-Gruppe "MotoGP21 - Anmeldung" anmelden.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsxIB5gKj0ndlLVGoWx_vjSwLldWuj_va5aQ2ydE6loQSpiu-nSKIg4der7KKbQY9yDt4UXSWzzV51/pubhtml?gid=933464923&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="550"></iframe>
 
